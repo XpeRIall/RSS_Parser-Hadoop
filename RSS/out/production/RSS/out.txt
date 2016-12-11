@@ -1,0 +1,50 @@
+
+FeedMessage :
+title = Column: How part-time work hurts U.S. workers' retirement security
+description = CHICAGO (Reuters) - The Great Recession took any number of wrecking balls to the retirement security of American workers, including wages and pension benefits, home equity and savings. But one of the...
+
+
+FeedMessage :
+title = Exclusive: U.S. regulator set to fail Wells Fargo on community lending test - sources
+description = WASHINGTON (Reuters) - A U.S. bank regulator is ready to fail Wells Fargo on a national scorecard for community lending, sources familiar with the decision said on Wednesday, in a move that could...
+
+
+FeedMessage :
+title = Dow transports set closing record high after 2-year wait
+description = NEW YORK (Reuters) - The Dow Jones transportation average  hit a record high close, led by increases in shares of Norfolk Southern , Union Pacific  and FedEx Corp , giving some investors hope the...
+
+
+FeedMessage :
+title = More women on boards=higher dividend rates: James Saft
+description = (Reuters) - Companies with weak corporate governance benefit from having more female board members, who help shareholders to benefit from higher dividends.
+
+
+FeedMessage :
+title = EFG International to cut up to 450 jobs as part of BSI integration
+description = ZURICH (Reuters) - Swiss private bank EFG International plans to cut up to 450 jobs over the next three years as part of its takeover of BSI Bank.
+
+
+FeedMessage :
+title = Citigroup fourth-quarter markets revenue trending up 20 percent vs year ago
+description = NEW YORK (Reuters) - Citigroup Inc fourth-quarter markets revenue is running about 20 percent higher than last year, chief financial officer John Gerspach said on Wednesday.
+
+
+FeedMessage :
+title = Pimco Total Return posts $2 billion net outflow in November
+description = NEW YORK (Reuters) - Investors pulled $2 billion of net cash from the Pimco Total Return Fund, once the world's largest bond fund, in November, bringing year-to-date total cash withdrawals to $12.9...
+
+
+FeedMessage :
+title = BlackRock 'less committed' to specific targets, but forecasts growth
+description = NEW YORK (Reuters) - A top BlackRock Inc executive said the world's largest asset manager could benefit from rising interest rates as its clients keep their stakes in bonds and as revenues from other...
+
+
+FeedMessage :
+title = Brazil's Anbima says hedging crucial to lure foreign capital
+description = SAO PAULO (Reuters) - The issue of designing effective instruments that protect long-term foreign investors from bouts of currency volatility in Brazil is crucial to helping lure capital for...
+
+
+FeedMessage :
+title = Poll: U.S. bull market seen extending into 2017 but Trump a wild card
+description = NEW YORK (Reuters) - The U.S. stock market's bull run since 2009 will extend into 2017 if President-elect Donald Trump's plans to stimulate the economy with infrastructure spending and financial...
+
