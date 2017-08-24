@@ -31,8 +31,8 @@ public class WriteTest {
         feed.setTitle("RSSFeed");
         feed.setDescription("This is a description");
         feed.setAuthor("nonsense@somewhere.de (Dmytriy Vasilenko)");
-        feed.setGuid("http://www.vogella.com/tutorials/RSSFeed/article.html");
-        feed.setLink("http://www.vogella.com/tutorials/RSSFeed/article.html");
+        feed.setGuid("");
+        feed.setLink("");
         rssFeeder.getMessages().add(feed);
 
         // now write the file
