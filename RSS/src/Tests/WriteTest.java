@@ -17,7 +17,7 @@ public class WriteTest {
         String title = "RSS_parser java";
         String description = "RSS_parser java";
         String language = "en";
-        String link = "http://www.vogella.com";
+        String link = "xperiall.github.io";
         Calendar cal = new GregorianCalendar();
         Date creationDate = cal.getTime();
         SimpleDateFormat date_format = new SimpleDateFormat(
